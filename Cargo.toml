@@ -2,6 +2,8 @@
 name = "ezlog"
 version = "0.1.0"
 edition = "2021"
+description = "rust logger based"
+license = "MIT"
 
 [dependencies]
 log = { version = "0.4", features = ["std"] }
